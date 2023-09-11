@@ -17,6 +17,8 @@ These are the key elements of a growth mindset:
 
 I love connecting with people, creating beautiful things, and making a lasting difference in people's lives.
 
+Here's a link to my [Github page](https://github.com/andreavandyck/reading-notes) 
+
 ### Where I'm From
 
 I'm a Londoner through and through, but I lived in Toronto for just under two years, and since the start of COVID I've been based in Cambridge, UK (where I was born, and in the same house again too!)
