@@ -37,3 +37,5 @@ Normal HTML for structuring content
 Metadata boosts your SEO efforts because it's written in the search engine's language. This helps search engines better understand the topic of your web pages and content. It also helps them display more relevant results to searchers.
 
 The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data. <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+
+## Things I want to know more about
